@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba del modulo 2 prep-course
+Nadia Miguel
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde git hub
